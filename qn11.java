@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class qn11
+public class qnSI
 {
 public static void main(String[]args)
     {
